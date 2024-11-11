@@ -1,2 +1,2 @@
 # OP-repos
-Exercises for the open university
+Exercises from the open university

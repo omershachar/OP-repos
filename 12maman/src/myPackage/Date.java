@@ -1,7 +1,7 @@
 /**
  * Maman 12
  * this class represents a given date in the Gregorian Calendar
- * @author Omer Shachar (ID - 209085570)
+ * @author Omer Shachar
  * @version 2024a
  */
 
